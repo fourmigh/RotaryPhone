@@ -8,7 +8,7 @@ android {
 
     defaultConfig {
         applicationId "org.caojun.rotaryphone"
-        minSdkVersion 14
+        minSdkVersion 15
         targetSdkVersion rootProject.ext.sdkVersion
         versionCode 1
         versionName "1.0.0"
